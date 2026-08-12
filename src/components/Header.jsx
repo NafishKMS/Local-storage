@@ -5,7 +5,7 @@ export default function TodoHeader({ total, completed }) {
     // Menggunakan warna warm brown/coffee yang senada dengan background cream
     <header className="bg-[#8C7B6C] px-6 py-6 text-[#FDFBF7]">
       <h1 className="flex items-center gap-2 text-2xl font-bold tracking-tight">
-        Local Storage To-Do List
+        Local Storage To-Do List (11)
       </h1>
       
       <p className="mt-1 text-sm text-[#E6DED3]/90">
